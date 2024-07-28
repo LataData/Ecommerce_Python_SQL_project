@@ -6,9 +6,13 @@ This dataset focuses on Target's operations in Brazil, covering 100,000 orders p
 shipping performance, customer locations, product attributes, and customer reviews.(https://www.kaggle.com/datasets/devarajv88/target-dataset?resource=download)
 
 1.Load e-commerce sales data into a MySQL database using Pandas
+
 2.Connect Python to the SQL database using MySQL Connector to run queries.
+
 3.First load heavy files into pandas dataframe then create and populate database tables 
+
 4.Leverage SQL joins and window functions to perform advanced data analysis
+
 5.Use Jupyter Notebook to visualize the results with Matplotlib, creating insights into sales performance and trends
 
 
