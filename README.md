@@ -19,21 +19,36 @@ Here's a concise summary of the insights from the SQL queries:
 Basic Queries:
 
 Unique Cities: Identifies all cities where customers are located, aiding in regional marketing and logistics.
+
 Orders in 2017: Reveals the total number of orders in 2017, useful for annual performance evaluation.
+
 Sales per Category: Shows sales figures by product category, highlighting which categories are most profitable.
+
 Installment Payments: Calculates the percentage of orders paid in installments, providing insight into customer payment preferences.
+
 Customers by State: Counts customers per state, helping in targeted regional strategies.
+
+
 Intermediate Queries:
 
 Orders per Month in 2018: Tracks monthly orders in 2018, showing sales trends and seasonal patterns.
+
 Average Products per Order by City: Measures the average number of products per order, segmented by city, to understand purchasing behavior.
+
 Revenue by Category: Analyzes the revenue contribution of each product category, guiding inventory and marketing focus.
+
 Price and Purchase Correlation: Examines the relationship between product price and purchase frequency, revealing spending patterns.
+
 Revenue by Seller: Calculates and ranks sellers by total revenue, identifying top performers for potential rewards and partnerships.
+
 Advanced Queries:
 
 Moving Average of Order Values: Provides a smoothed view of customer spending patterns over time.
+
 Cumulative Sales per Month: Shows how sales accumulate month-by-month, helping to evaluate marketing effectiveness.
+
 Year-over-Year Growth Rate: Measures sales growth compared to the previous year, indicating business performance trends.
+
 Customer Retention Rate: Calculates the percentage of customers who make repeat purchases within 6 months, reflecting loyalty.
+
 Top Spending Customers by Year: Identifies the top 3 customers by spending each year, allowing for targeted marketing and personalized offers
